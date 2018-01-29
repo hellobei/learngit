@@ -1,2 +1,6 @@
 edit from laptop
 And now, I edit it on my desktop.
+
+But same time, eidt it on laptop, too.
+
+OK, I must fix the conflict just like what I did in Chapter "branch conflict".
