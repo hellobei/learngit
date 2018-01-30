@@ -1,1 +1,1 @@
-Test "git revert <commit>"
+Test "git add" in test.txt.
