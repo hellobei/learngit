@@ -7,3 +7,4 @@ This is my branch test.
 Test again.
 Test "git add" in readme.txt
 Test "git commit --amend"
+Test amend.
